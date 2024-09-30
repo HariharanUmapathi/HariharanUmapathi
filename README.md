@@ -2,12 +2,8 @@
 <h3 align="center">Passionate FullStack Developer </h3>
 <h3 align="center"><a href="https://roadmap.sh/u/hariharan"> Roadmap</a></h3>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/649b0879d99c9d67319ab1a0?variant=dark&roadmaps=backend%2Cvue%2Cjava" alt="roadmap.sh"/></a>
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=hariharanumapathi&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hariharanumapathi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=hariharanumapathi&theme=onedark" alt="hariharanumapathi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharanumapathi&label=Profile%20views&color=0e75b6&style=flat" alt="hariharanumapathi" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharanumapathi&theme=onedark" alt="hariharanumapathi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
