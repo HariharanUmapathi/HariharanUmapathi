@@ -140,7 +140,7 @@
 </table>
 
 
-
+[![An image of @hariharanumapathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hariharanumapathi)](https://holopin.io/@hariharanumapathi)
 
 Port Folio
 https://hariharanumapathi.github.io/portfolio/
