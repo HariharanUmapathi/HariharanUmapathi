@@ -153,7 +153,7 @@
     </a>
 </div>
 
-<h1>Hacktober 2024</h1>
+<h1>Hacktober 2024,2025</h1>
 
 [![An image of @hariharanumapathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hariharanumapathi)](https://holopin.io/@hariharanumapathi)
 
